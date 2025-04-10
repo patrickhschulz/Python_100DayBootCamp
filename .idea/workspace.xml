@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f04a77a-f823-468f-89cc-be228c7f106d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/100DayPythonBootCamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_scratchPaper/BandNameGen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_scratchPaper/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/BMI_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/ScratchPaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/TipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/ChooseYourOwnAdventure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/ChooseYourOwnAdventure2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/LogicalOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/PizzaDelivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/TicketMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/TicketMachineV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/Datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/Randomization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/my_module.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2vPsyaxLFaeY6YAGOMiXhsX868w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.BMI_Calc.executor": "Run",
+    "Python.ChooseYourOwnAdventure.executor": "Run",
+    "Python.Datastructures.executor": "Run",
+    "Python.EX1.executor": "Run",
+    "Python.PizzaDelivery.executor": "Run",
+    "Python.Project.executor": "Run",
+    "Python.Randomization.executor": "Run",
+    "Python.ScratchPad.executor": "Run",
+    "Python.ScratchPaper.executor": "Run",
+    "Python.TicketMachineV2.executor": "Run",
+    "Python.TipCalculator.executor": "Run",
+    "Python.task.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mondo/PycharmProjects/100DayPythonBootCamp/Day3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day1_scratchPaper" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f04a77a-f823-468f-89cc-be228c7f106d" name="Changes" comment="" />
+      <created>1744058299328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744058299328</updated>
+    </task>
+    <servers />
+  </component>
+</project>
